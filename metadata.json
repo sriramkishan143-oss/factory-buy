@@ -1,0 +1,6 @@
+{
+  "name": "FactoryBuy",
+  "description": "Industrial raw-material procurement marketplace for small factories and manufacturers to search, compare, and source verified suppliers across steel, aluminium, copper, plastic, rubber, and cement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
